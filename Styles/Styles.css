@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(242, 248, 251);
+}
+h1
+{
+  color: #293462;
+  text-shadow :gray 2px 2px;
+  font-size: 5em;
+}
+h2
+{
+  color:#6CC4A1;
+  text-shadow:gray 1px 1px;
+}
+h3
+{
+  color: #0987c1;
+  text-shadow:gray 1px 1px;
+}
+.main{
+    color:#7F7C82
+}
